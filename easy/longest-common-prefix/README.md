@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Profile](https://img.shields.io/badge/leetcode.com-smnvdev-f79f1b.svg?logo=leetcode)](https://leetcode.com/smnvdev/)
-[![9. Palindrome Number](https://img.shields.io/badge/14._Longest_Common_Prefix-00b8a3.svg?logo=leetcode)](https://leetcode.com/problems/longest-common-prefix/)
+[![14. Longest Common Prefix](https://img.shields.io/badge/14._Longest_Common_Prefix-00b8a3.svg?logo=leetcode)](https://leetcode.com/problems/longest-common-prefix/)
 [![Submission Detail](https://img.shields.io/badge/Submission_Detail-Accepted-449d44.svg?logo=leetcode)](https://leetcode.com/submissions/detail/728692542/)
 </div>
 
