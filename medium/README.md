@@ -1,5 +1,5 @@
 <h2 align="center">
-    <img alt="LeetCode logo" src="/docs/assets/leetcode.svg" />
+    <img alt="LeetCode logo" src="../docs/assets/leetcode.svg" />
     LeetCode • Medium problems
 </h2>
 <div align="center">
